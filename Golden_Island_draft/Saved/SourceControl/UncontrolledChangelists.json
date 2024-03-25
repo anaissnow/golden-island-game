@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/User/Documents/GitHub/golden-island-game/Golden_Island_draft/Content/StarterContent/Blueprints/PlayerControl.uasset",
-				"C:/Users/User/Documents/GitHub/golden-island-game/Golden_Island_draft/Content/StarterContent/Blueprints/GM_GamemodeTest.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Tutorial_Level_HLOD0_Instancing.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/__ExternalActors__/Tutorial_Level/0/OY/2FJZK48KPQB8ZRNMN9AFNK.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/__ExternalObjects__/Tutorial_Level/A/Y7/L9J88L64WDS4HQINFCPUJ1.uasset",
@@ -173,6 +171,9 @@
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/__ExternalActors__/Tutorial_Level/5/UI/EE65H8WV2CMQR8O14VXJVC.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/__ExternalActors__/Tutorial_Level/3/05/URRTCJVRMG0YMC05L1J397.uasset",
 				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/__ExternalActors__/Tutorial_Level/5/KY/J1NMSUVRGBVMA3G3XCRHM5.uasset",
+				"C:/Users/yueer/Desktop/Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Beach_Tutorial.umap",
+				"C:/Users/User/Documents/GitHub/golden-island-game/Golden_Island_draft/Content/StarterContent/Blueprints/PlayerControl.uasset",
+				"C:/Users/User/Documents/GitHub/golden-island-game/Golden_Island_draft/Content/StarterContent/Blueprints/GM_GamemodeTest.uasset",
 				"C:/Users/yueer/Documents/Unreal Projects/Golden_Island_draft/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
