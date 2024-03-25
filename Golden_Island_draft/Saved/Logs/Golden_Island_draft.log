@@ -1487,3 +1487,982 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.25-08.34.59:973][223]LogHttp: Warning: 0000040D9E54C300: libcurl info message cache 34 (Closing connection)
 [2024.03.25-08.34.59:973][223]LogHttp: Warning: 0000040D9E54C300: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.25-08.34.59:973][223]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-08.35.55:747][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-08.35.55:904][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.25-08.35.55:939][171]LogSavePackage: Moving output files for package: /Game/Beach_Tutorial
+[2024.03.25-08.35.55:940][171]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Beach_Tutorial6FDCBAC849A4D10624A9C0B88FDB55A5.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Beach_Tutorial.umap'
+[2024.03.25-08.35.55:949][171]LogFileHelpers: Saving map 'Beach_Tutorial' took 0.092
+[2024.03.25-08.35.55:963][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms
+[2024.03.25-08.35.55:966][171]AssetCheck: New page: Asset Save: Beach_Tutorial
+[2024.03.25-08.35.55:966][171]LogContentValidation: Display: Validating /Script/Engine.World /Game/Beach_Tutorial.Beach_Tutorial
+[2024.03.25-08.35.58:340][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.03.25-08.36.19:588][309]LogSlate: Window 'Save Content' being destroyed
+[2024.03.25-08.36.21:232][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.25-08.36.23:083][391]LogSlate: Window 'Save Content' being destroyed
+[2024.03.25-08.36.24:117][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.03.25-08.36.35:699][444]LogSlate: Window 'Save Content' being destroyed
+[2024.03.25-08.36.36:830][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-08.36.36:980][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.25-08.36.37:018][491]LogSavePackage: Moving output files for package: /Game/Beach_Tutorial
+[2024.03.25-08.36.37:020][491]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Beach_Tutorial15513380454033E5F66B8DA6BD91DE55.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Beach_Tutorial.umap'
+[2024.03.25-08.36.37:028][491]LogFileHelpers: Saving map 'Beach_Tutorial' took 0.091
+[2024.03.25-08.36.37:041][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 426 ms)
+[2024.03.25-08.36.37:046][491]AssetCheck: New page: Asset Save: Beach_Tutorial
+[2024.03.25-08.36.37:046][491]LogContentValidation: Display: Validating /Script/Engine.World /Game/Beach_Tutorial.Beach_Tutorial
+[2024.03.25-08.37.35:620][942]LogSlate: Window 'New Level' being destroyed
+[2024.03.25-08.37.35:635][942]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.25-08.37.35:645][942]LightingResults: New page: Lighting Build
+[2024.03.25-08.37.35:646][942]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.03.25-08.37.35:683][942]LogWorld: UWorld::CleanupWorld for Beach_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-08.37.35:683][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-08.37.35:683][942]MapCheck: New page: Map Check
+[2024.03.25-08.37.35:683][942]LightingResults: New page: Lighting Build
+[2024.03.25-08.37.35:702][942]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-08.37.35:710][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.03.25-08.37.35:719][942]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2024.03.25-08.37.35:719][942]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-08.37.35:719][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-08.37.35:720][942]LogAIModule: Creating AISystem for world Untitled_3
+[2024.03.25-08.37.35:743][942]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.25-08.37.35:763][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.25-08.37.35:765][942]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.25-08.37.35:765][942]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.277ms to complete.
+[2024.03.25-08.37.57:378][426]LogSlate: Window 'Save Level As' being destroyed
+[2024.03.25-08.37.57:588][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.03.25-08.37.57:602][426]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-08.37.57:603][426]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_Village02B27A564B876D93A8B08EA3289DEC8F.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-08.37.57:624][426]LogFileHelpers: Saving map 'Eastern_Village' took 0.234
+[2024.03.25-08.37.57:624][426]Cmd: MAP LOAD FILE="../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.25-08.37.57:624][426]LightingResults: New page: Lighting Build
+[2024.03.25-08.37.57:624][426]LoadErrors: New page: Loading map: Eastern_Village.umap
+[2024.03.25-08.37.57:655][426]LogWorld: UWorld::CleanupWorld for Eastern_Village, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-08.37.57:656][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-08.37.57:656][426]MapCheck: New page: Map Check
+[2024.03.25-08.37.57:656][426]LightingResults: New page: Lighting Build
+[2024.03.25-08.37.57:672][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-08.37.57:675][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.03.25-08.37.57:680][426]LogAudio: Display: Audio Device (ID: 1) registered with world 'Eastern_Village'.
+[2024.03.25-08.37.57:680][426]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-08.37.57:681][426]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-08.37.57:681][426]LogAIModule: Creating AISystem for world Eastern_Village
+[2024.03.25-08.37.57:700][426]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.25-08.37.57:721][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.03.25-08.37.57:727][426]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.25-08.37.57:727][426]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.156ms to complete.
+[2024.03.25-08.37.57:729][426]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-08.37.57:729][426]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-08.38.04:787][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-08.38.04:923][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.25-08.38.04:933][832]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-08.38.04:933][832]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_Village9C6D31CC430DAC7D9529949A5DCEA565.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-08.38.04:941][832]LogFileHelpers: Saving map 'Eastern_Village' took 0.057
+[2024.03.25-08.38.04:957][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 597 ms)
+[2024.03.25-08.38.04:960][832]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-08.38.04:960][832]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-08.38.25:954][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-08.38.26:090][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.25-08.38.26:101][ 91]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-08.38.26:102][ 91]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_Village7509BC2744FE26F7FFBED1BEB03409B3.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-08.38.26:110][ 91]LogFileHelpers: Saving map 'Eastern_Village' took 0.060
+[2024.03.25-08.38.26:121][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 764 ms)
+[2024.03.25-08.38.26:124][ 91]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-08.38.26:124][ 91]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-08.38.32:043][430]Cmd: MAP LOAD FILE="../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Beach_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.25-08.38.32:043][430]LightingResults: New page: Lighting Build
+[2024.03.25-08.38.32:043][430]LoadErrors: New page: Loading map: Beach_Tutorial.umap
+[2024.03.25-08.38.32:102][430]LogWorld: UWorld::CleanupWorld for Eastern_Village, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-08.38.32:102][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-08.38.32:102][430]MapCheck: New page: Map Check
+[2024.03.25-08.38.32:102][430]LightingResults: New page: Lighting Build
+[2024.03.25-08.38.32:115][430]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-08.38.32:118][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.25-08.38.32:128][430]LogAudio: Display: Audio Device (ID: 1) registered with world 'Beach_Tutorial'.
+[2024.03.25-08.38.32:128][430]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-08.38.32:128][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-08.38.32:128][430]LogAIModule: Creating AISystem for world Beach_Tutorial
+[2024.03.25-08.38.32:148][430]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.25-08.38.32:166][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.25-08.38.32:172][430]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.25-08.38.32:172][430]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2024.03.25-08.38.38:594][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-08.38.38:739][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.03.25-08.38.38:772][758]LogSavePackage: Moving output files for package: /Game/Beach_Tutorial
+[2024.03.25-08.38.38:773][758]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Beach_TutorialCA684A7943CDC3E1DADF099806AA1424.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Beach_Tutorial.umap'
+[2024.03.25-08.38.38:783][758]LogFileHelpers: Saving map 'Beach_Tutorial' took 0.087
+[2024.03.25-08.38.38:795][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 964 ms)
+[2024.03.25-08.38.38:796][758]AssetCheck: New page: Asset Save: Beach_Tutorial
+[2024.03.25-08.38.38:796][758]LogContentValidation: Display: Validating /Script/Engine.World /Game/Beach_Tutorial.Beach_Tutorial
+[2024.03.25-08.38.43:700][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-08.38.43:851][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.25-08.38.43:890][ 43]LogSavePackage: Moving output files for package: /Game/Beach_Tutorial
+[2024.03.25-08.38.43:891][ 43]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Beach_Tutorial0057A1604DDE75AB25272CAA8E62D398.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Beach_Tutorial.umap'
+[2024.03.25-08.38.43:902][ 43]LogFileHelpers: Saving map 'Beach_Tutorial' took 0.097
+[2024.03.25-08.38.43:919][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 1.18 sec)
+[2024.03.25-08.38.43:923][ 43]AssetCheck: New page: Asset Save: Beach_Tutorial
+[2024.03.25-08.38.43:923][ 43]LogContentValidation: Display: Validating /Script/Engine.World /Game/Beach_Tutorial.Beach_Tutorial
+[2024.03.25-08.38.49:293][336]Cmd: MAP LOAD FILE="../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.25-08.38.49:294][336]LightingResults: New page: Lighting Build
+[2024.03.25-08.38.49:294][336]LoadErrors: New page: Loading map: Eastern_Village.umap
+[2024.03.25-08.38.49:361][336]LogWorld: UWorld::CleanupWorld for Beach_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-08.38.49:361][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-08.38.49:361][336]MapCheck: New page: Map Check
+[2024.03.25-08.38.49:361][336]LightingResults: New page: Lighting Build
+[2024.03.25-08.38.49:376][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-08.38.49:380][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.25-08.38.49:384][336]LogAudio: Display: Audio Device (ID: 1) registered with world 'Eastern_Village'.
+[2024.03.25-08.38.49:384][336]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-08.38.49:385][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-08.38.49:385][336]LogAIModule: Creating AISystem for world Eastern_Village
+[2024.03.25-08.38.49:400][336]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.25-08.38.49:417][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.25-08.38.49:423][336]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.25-08.38.49:423][336]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2024.03.25-08.39.07:973][421]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2024.03.25-08.39.07:973][421]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2024.03.25-08.39.07:975][421]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_0
+[2024.03.25-08.39.07:975][421]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_0
+[2024.03.25-08.39.20:067][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-08.39.27:289][544]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-08.39.43:191][435]Cmd: DELETE
+[2024.03.25-08.39.43:193][435]Cmd: ACTOR DELETE
+[2024.03.25-08.39.43:200][435]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.25-08.39.43:218][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.25-08.39.43:221][435]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.03.25-08.39.52:820][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-08.39.52:952][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.25-08.39.52:963][985]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-08.39.52:964][985]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_Village48A315C243A14BCFBD2201919CE39414.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-08.39.52:972][985]LogFileHelpers: Saving map 'Eastern_Village' took 0.059
+[2024.03.25-08.39.52:985][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 1.34 sec)
+[2024.03.25-08.39.52:987][985]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-08.39.52:987][985]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-08.39.59:931][393]LogHttp: Warning: 0000040D9E6FE100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-08.39.59:931][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 0 (Found bundle for host: 0x40d45150cf0 [serially])
+[2024.03.25-08.39.59:931][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-08.39.59:931][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-08.39.59:931][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 6 (Closing connection)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 9 (  Trying 35.170.116.146:443...)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (35.170.116.146) port 443)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 34 (Closing connection)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: 0000040D9E6FE100: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-08.39.59:932][393]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-08.40.33:517][352]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/yueer/Box_2CCD6BC3.Box_2CCD6BC3
+[2024.03.25-08.40.33:517][352]LogStaticMesh: Display: Building static mesh Box_2CCD6BC3...
+[2024.03.25-08.40.33:519][352]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/yueer/Box_2CCD6BC3.Box_2CCD6BC3 as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_2
+[2024.03.25-08.40.33:519][352]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/yueer/Box_2CCD6BC3.Box_2CCD6BC3
+[2024.03.25-08.41.32:440][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.03.25-08.41.41:008][830]LogSlate: Window 'Save Content' being destroyed
+[2024.03.25-08.41.41:077][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-08.41.41:255][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.25-08.41.41:268][830]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-08.41.41:269][830]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_VillageBA4081DB4F974B7CE3722D82BD92D867.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-08.41.41:278][830]LogFileHelpers: Saving map 'Eastern_Village' took 0.069
+[2024.03.25-08.41.41:508][830]LogSavePackage: Moving output files for package: /Game/_GENERATED/yueer/Box_2CCD6BC3
+[2024.03.25-08.41.41:508][830]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Box_2CCD6BC3FDC685E74C4B3F8D61FB06990811709E.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/_GENERATED/yueer/Box_2CCD6BC3.uasset'
+[2024.03.25-08.41.41:540][830]LogSavePackage: Moving output files for package: /Game/_GENERATED/yueer/Cone_B4DE1814
+[2024.03.25-08.41.41:540][830]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Cone_B4DE1814947B9EE04AB6B9CBC8BE20928B328447.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/_GENERATED/yueer/Cone_B4DE1814.uasset'
+[2024.03.25-08.41.41:568][830]LogSavePackage: Moving output files for package: /Game/_GENERATED/yueer/Cylinder_AF34E843
+[2024.03.25-08.41.41:568][830]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Cylinder_AF34E843CF21A1054C0B09ECBB64CF83F932462D.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/_GENERATED/yueer/Cylinder_AF34E843.uasset'
+[2024.03.25-08.41.41:586][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 508 ms (total: 1.85 sec)
+[2024.03.25-08.41.41:590][830]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.25-08.41.41:590][830]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-08.41.41:590][830]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/yueer/Box_2CCD6BC3.Box_2CCD6BC3
+[2024.03.25-08.41.41:590][830]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/yueer/Cone_B4DE1814.Cone_B4DE1814
+[2024.03.25-08.41.41:590][830]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/yueer/Cylinder_AF34E843.Cylinder_AF34E843
+[2024.03.25-08.41.44:790][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-08.41.44:937][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.25-08.41.44:947][979]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-08.41.44:947][979]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_Village530597404443115B73FC0A9759DDD94A.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-08.41.44:960][979]LogFileHelpers: Saving map 'Eastern_Village' took 0.063
+[2024.03.25-08.41.44:973][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 2.03 sec)
+[2024.03.25-08.41.44:975][979]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-08.41.44:975][979]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-08.42.15:645][791]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-08.42.35:588][977]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/yueer/Box_BC003843.Box_BC003843
+[2024.03.25-08.42.35:588][977]LogStaticMesh: Display: Building static mesh Box_BC003843...
+[2024.03.25-08.42.35:590][977]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/yueer/Box_BC003843.Box_BC003843 as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_3
+[2024.03.25-08.42.35:591][977]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/yueer/Box_BC003843.Box_BC003843
+[2024.03.25-08.43.52:164][525]LogStaticMesh: Display: Building static mesh Box_BC003843...
+[2024.03.25-08.43.52:166][525]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/yueer/Box_BC003843.Box_BC003843
+[2024.03.25-08.43.52:169][525]LogActorComponent: UnregisterComponent: (/Game/Eastern_Village.Eastern_Village:PersistentLevel.InternalToolFrameworkActor_0.DynamicMeshComponent_0) Not registered. Aborting.
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 0 (Found bundle for host: 0x40d45150270 [serially])
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 6 (Closing connection)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 9 (  Trying 18.233.107.181:443...)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (18.233.107.181) port 443)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-08.43.59:960][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 34 (Closing connection)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: 0000040DC1F72300: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-08.43.59:961][985]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-08.46.31:612][904]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-08.47.05:197][904]LogStaticMesh: Display: Building static mesh Box_BC003843...
+[2024.03.25-08.47.05:200][904]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/yueer/Box_BC003843.Box_BC003843
+[2024.03.25-08.47.05:201][904]LogActorComponent: UnregisterComponent: (/Game/Eastern_Village.Eastern_Village:PersistentLevel.InternalToolFrameworkActor_3.DynamicMeshComponent_0) Not registered. Aborting.
+[2024.03.25-08.47.49:788][542]LogStaticMesh: Display: Building static mesh Box_BC003843...
+[2024.03.25-08.47.49:791][542]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/yueer/Box_BC003843.Box_BC003843
+[2024.03.25-08.47.54:377][815]LogEditorViewport: Clicking Background
+[2024.03.25-08.48.12:499][890]LogStaticMesh: Display: Building static mesh Box_BC003843...
+[2024.03.25-08.48.12:501][890]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/yueer/Box_BC003843.Box_BC003843
+[2024.03.25-08.48.37:216][365]LogStaticMesh: Display: Building static mesh Box_BC003843...
+[2024.03.25-08.48.37:228][365]LogStaticMesh: Built static mesh [0.01s] /Game/_GENERATED/yueer/Box_BC003843.Box_BC003843
+[2024.03.25-08.48.39:971][528]LogEditorViewport: Clicking Background
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 0 (Found bundle for host: 0x40d45150ed0 [serially])
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 6 (Closing connection)
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 9 (  Trying 35.169.126.79:443...)
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (35.169.126.79) port 443)
+[2024.03.25-08.48.59:949][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 34 (Closing connection)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: 0000040DC28E0500: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-08.48.59:950][709]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-08.50.35:520][340]Cmd: DUPLICATE
+[2024.03.25-08.50.35:520][340]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.50.35:520][340]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.03.25-08.50.50:237][208]Cmd: DUPLICATE
+[2024.03.25-08.50.50:237][208]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.51.45:084][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.03.25-08.51.45:098][459]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Eastern_Village_Auto1
+[2024.03.25-08.51.45:098][459]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_Village_Auto187473DD94B0475100DFDD797FB3425F1.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Autosaves/Game/Eastern_Village_Auto1.umap'
+[2024.03.25-08.51.45:100][459]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Autosaves/Game/Eastern_Village_Auto1.umap is in the /Temp path, will not scan.
+[2024.03.25-08.51.45:100][459]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Eastern_Village_Auto1 is in the /Temp path, will not scan.
+[2024.03.25-08.51.45:100][459]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Eastern_Village_Auto1 is in the /Temp path, will not scan.
+[2024.03.25-08.51.45:100][459]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Eastern_Village' took 0.041
+[2024.03.25-08.51.45:100][459]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2024.03.25-08.51.45:101][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/yueer/Box_BC003843] ([1] browsable assets)...
+[2024.03.25-08.51.45:231][459]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/yueer/Box_BC003843.Box_BC003843]
+[2024.03.25-08.51.45:231][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/yueer/Box_BC003843]
+[2024.03.25-08.51.45:234][459]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/yueer/Box_BC003843_Auto1
+[2024.03.25-08.51.45:234][459]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Box_BC003843_Auto19309BD8B47DD4E6CE54BCEA8B2AC00F8.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Autosaves/Game/_GENERATED/yueer/Box_BC003843_Auto1.uasset'
+[2024.03.25-08.51.45:235][459]LogFileHelpers: Auto-saving content packages took 0.135
+[2024.03.25-08.53.59:954][539]LogHttp: Warning: 0000040DBF027D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-08.53.59:954][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 0 (Found bundle for host: 0x40d45150300 [serially])
+[2024.03.25-08.53.59:954][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-08.53.59:954][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-08.53.59:954][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 6 (Closing connection)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 9 (  Trying 3.208.253.152:443...)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.208.253.152) port 443)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 34 (Closing connection)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: 0000040DBF027D00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-08.53.59:955][539]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-08.55.47:929][692]Cmd: DUPLICATE
+[2024.03.25-08.55.47:929][692]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.55.55:867][155]Cmd: DUPLICATE
+[2024.03.25-08.55.55:867][155]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.56.04:095][641]Cmd: DUPLICATE
+[2024.03.25-08.56.04:095][641]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.56.13:888][215]Cmd: DUPLICATE
+[2024.03.25-08.56.13:889][215]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.56.26:275][947]Cmd: DUPLICATE
+[2024.03.25-08.56.26:275][947]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.56.38:311][651]Cmd: DUPLICATE
+[2024.03.25-08.56.38:311][651]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.56.50:888][394]Cmd: DUPLICATE
+[2024.03.25-08.56.50:888][394]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.58.12:073][180]LogStaticMesh: Display: Building static mesh Cylinder_1E392045...
+[2024.03.25-08.58.12:073][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/yueer/Cylinder_1E392045.Cylinder_1E392045
+[2024.03.25-08.58.12:074][180]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/yueer/Cylinder_1E392045.Cylinder_1E392045 as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_22
+[2024.03.25-08.58.12:075][180]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/yueer/Cylinder_1E392045.Cylinder_1E392045
+[2024.03.25-08.58.13:110][234]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-08.58.42:271][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/yueer/Cone_80C839E1.Cone_80C839E1
+[2024.03.25-08.58.42:271][943]LogStaticMesh: Display: Building static mesh Cone_80C839E1...
+[2024.03.25-08.58.42:273][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/yueer/Cone_80C839E1.Cone_80C839E1 as actor: StaticMeshActor /Game/Eastern_Village.Eastern_Village:PersistentLevel.StaticMeshActor_23
+[2024.03.25-08.58.42:274][943]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/yueer/Cone_80C839E1.Cone_80C839E1
+[2024.03.25-08.59.53:965][108]Cmd: DUPLICATE
+[2024.03.25-08.59.53:965][108]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.59.57:556][319]Cmd: DUPLICATE
+[2024.03.25-08.59.57:556][319]Cmd: ACTOR DUPLICATE
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 0 (Found bundle for host: 0x40d45150b40 [serially])
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 6 (Closing connection)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 9 (  Trying 52.206.133.8:443...)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.206.133.8) port 443)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-08.59.59:952][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 34 (Closing connection)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: 0000040DC42BE100: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-08.59.59:953][456]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-09.00.00:836][509]Cmd: DUPLICATE
+[2024.03.25-09.00.00:836][509]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.04:732][735]Cmd: DUPLICATE
+[2024.03.25-09.00.04:732][735]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.07:006][866]Cmd: DUPLICATE
+[2024.03.25-09.00.07:006][866]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.10:543][ 72]Cmd: DUPLICATE
+[2024.03.25-09.00.10:543][ 72]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.14:462][299]Cmd: DUPLICATE
+[2024.03.25-09.00.14:462][299]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.17:559][479]Cmd: DUPLICATE
+[2024.03.25-09.00.17:559][479]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.23:258][812]Cmd: DUPLICATE
+[2024.03.25-09.00.23:258][812]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.29:041][147]Cmd: DUPLICATE
+[2024.03.25-09.00.29:041][147]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.31:119][267]Cmd: DUPLICATE
+[2024.03.25-09.00.31:119][267]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.38:370][695]Cmd: DUPLICATE
+[2024.03.25-09.00.38:370][695]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.43:708][  6]Cmd: DUPLICATE
+[2024.03.25-09.00.43:708][  6]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.46:536][171]Cmd: DUPLICATE
+[2024.03.25-09.00.46:536][171]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.00.52:179][503]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.00.57:121][794]Cmd: DUPLICATE
+[2024.03.25-09.00.57:121][794]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.01.02:837][131]Cmd: DUPLICATE
+[2024.03.25-09.01.02:837][131]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.01.06:045][318]Cmd: DUPLICATE
+[2024.03.25-09.01.06:045][318]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.01.25:341][451]Cmd: DUPLICATE
+[2024.03.25-09.01.25:341][451]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.01.29:250][679]Cmd: DUPLICATE
+[2024.03.25-09.01.29:250][679]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.01.33:419][923]Cmd: DUPLICATE
+[2024.03.25-09.01.33:419][923]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.01.37:211][143]Cmd: DUPLICATE
+[2024.03.25-09.01.37:211][143]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.01.42:217][436]Cmd: DUPLICATE
+[2024.03.25-09.01.42:217][436]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.01.46:701][700]Cmd: DUPLICATE
+[2024.03.25-09.01.46:701][700]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.01.47:638][752]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.03.07:902][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.03.08:041][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.03.25-09.03.08:069][354]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.03.08:071][354]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_VillageDC352AB34DC517E8EAED339ADEBF58B4.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.03.08:079][354]LogFileHelpers: Saving map 'Eastern_Village' took 0.082
+[2024.03.25-09.03.08:091][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 2.22 sec)
+[2024.03.25-09.03.08:093][354]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.03.08:093][354]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-09.03.09:827][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.03.09:972][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.25-09.03.09:998][456]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.03.10:000][456]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_VillageF0D7EBCA467472B92DC9439BCA8E5CEA.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.03.10:010][456]LogFileHelpers: Saving map 'Eastern_Village' took 0.076
+[2024.03.25-09.03.10:020][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 2.42 sec)
+[2024.03.25-09.03.10:023][456]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.03.10:023][456]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-09.03.11:535][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.25-09.03.13:081][543]LogSlate: Window 'Save Content' being destroyed
+[2024.03.25-09.03.13:117][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.03.13:243][543]LogSavePackage: Moving output files for package: /Game/_GENERATED/yueer/Box_BC003843
+[2024.03.25-09.03.13:243][543]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Box_BC003843FDB9288145478985E5502BAC221CC9C1.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/_GENERATED/yueer/Box_BC003843.uasset'
+[2024.03.25-09.03.13:322][543]LogSavePackage: Moving output files for package: /Game/_GENERATED/yueer/Cone_80C839E1
+[2024.03.25-09.03.13:322][543]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Cone_80C839E1E01F1944459CA3380091279410822140.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/_GENERATED/yueer/Cone_80C839E1.uasset'
+[2024.03.25-09.03.13:343][543]LogSavePackage: Moving output files for package: /Game/_GENERATED/yueer/Cylinder_1E392045
+[2024.03.25-09.03.13:343][543]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Cylinder_1E3920452B5892FB46D52400DA2FDD917C6696C8.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/_GENERATED/yueer/Cylinder_1E392045.uasset'
+[2024.03.25-09.03.13:359][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 2.66 sec)
+[2024.03.25-09.03.13:360][543]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.25-09.03.13:361][543]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/yueer/Box_BC003843.Box_BC003843
+[2024.03.25-09.03.13:361][543]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/yueer/Cone_80C839E1.Cone_80C839E1
+[2024.03.25-09.03.13:361][543]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/yueer/Cylinder_1E392045.Cylinder_1E392045
+[2024.03.25-09.03.23:287][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.03.23:426][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.25-09.03.23:458][133]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.03.23:459][133]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_VillageB794D2DB43EDC64023F7BAB8A66EF676.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.03.23:467][133]LogFileHelpers: Saving map 'Eastern_Village' took 0.081
+[2024.03.25-09.03.23:492][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 205 ms (total: 2.87 sec)
+[2024.03.25-09.03.23:496][133]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.03.23:496][133]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-09.03.56:429][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.03.56:602][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.25-09.03.56:633][341]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.03.56:635][341]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_VillageBD4E168F4D900F799E48438A24E5F67B.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.03.56:644][341]LogFileHelpers: Saving map 'Eastern_Village' took 0.086
+[2024.03.25-09.03.56:658][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 3.09 sec)
+[2024.03.25-09.03.56:661][341]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.03.56:661][341]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-09.04.11:999][855]Cmd: DUPLICATE
+[2024.03.25-09.04.11:999][855]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.04.20:329][346]Cmd: DUPLICATE
+[2024.03.25-09.04.20:330][346]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.04.22:961][498]Cmd: DUPLICATE
+[2024.03.25-09.04.22:961][498]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.04.25:814][663]Cmd: DUPLICATE
+[2024.03.25-09.04.25:815][663]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.04.31:654][  4]Cmd: DUPLICATE
+[2024.03.25-09.04.31:654][  4]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.04.42:956][671]Cmd: DUPLICATE
+[2024.03.25-09.04.42:957][671]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.04.57:196][896]Cmd: DUPLICATE
+[2024.03.25-09.04.57:196][896]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.05.01:521][252]Cmd: DUPLICATE
+[2024.03.25-09.05.01:521][252]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.05.10:127][  1]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.05.25:638][272]Cmd: DUPLICATE
+[2024.03.25-09.05.25:639][272]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.05.38:556][315]Cmd: DUPLICATE
+[2024.03.25-09.05.38:556][315]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 0 (Found bundle for host: 0x40d45150750 [serially])
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 6 (Closing connection)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 9 (  Trying 44.215.184.24:443...)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (44.215.184.24) port 443)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-09.05.59:980][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 34 (Closing connection)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: 0000040DC241B900: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.05.59:981][127]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-09.06.03:019][386]Cmd: DUPLICATE
+[2024.03.25-09.06.03:019][386]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.06.17:048][539]Cmd: DUPLICATE
+[2024.03.25-09.06.17:048][539]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.06.23:036][ 32]Cmd: DUPLICATE
+[2024.03.25-09.06.23:036][ 32]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.06.27:600][421]Cmd: DUPLICATE
+[2024.03.25-09.06.27:600][421]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.06.31:899][776]Cmd: DUPLICATE
+[2024.03.25-09.06.31:899][776]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.06.36:010][111]Cmd: DUPLICATE
+[2024.03.25-09.06.36:010][111]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.06.44:872][846]Cmd: DUPLICATE
+[2024.03.25-09.06.44:872][846]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.06.48:438][131]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.07.06:925][651]Cmd: DUPLICATE
+[2024.03.25-09.07.06:925][651]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.07.25:197][129]Cmd: DUPLICATE
+[2024.03.25-09.07.25:197][129]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.07.39:767][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.07.39:930][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.03.25-09.07.39:970][332]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.07.39:971][332]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_Village2AC7A296411FBC9D77B01D95DD601D3B.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.07.39:980][332]LogFileHelpers: Saving map 'Eastern_Village' took 0.094
+[2024.03.25-09.07.39:992][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 3.32 sec)
+[2024.03.25-09.07.39:994][332]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.07.39:994][332]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-09.07.56:615][833]Cmd: ACTOR SELECT ALL
+[2024.03.25-09.08.01:153][211]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.03.25-09.08.06:520][675]Cmd: ACTOR SELECT ALL
+[2024.03.25-09.08.10:454][999]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.03.25-09.08.14:561][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.08.14:709][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.25-09.08.14:755][349]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.08.14:756][349]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_Village15625F1B4DA7AE9F59C2FDBD24AD66A8.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.08.14:765][349]LogFileHelpers: Saving map 'Eastern_Village' took 0.095
+[2024.03.25-09.08.14:779][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 3.54 sec)
+[2024.03.25-09.08.14:783][349]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.08.14:783][349]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-09.08.44:074][886]Cmd: DUPLICATE
+[2024.03.25-09.08.44:074][886]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.08.52:853][599]Cmd: DUPLICATE
+[2024.03.25-09.08.52:853][599]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.08.57:482][965]Cmd: DUPLICATE
+[2024.03.25-09.08.57:482][965]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.09.04:265][499]Cmd: DUPLICATE
+[2024.03.25-09.09.04:265][499]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.09.07:901][790]Cmd: DUPLICATE
+[2024.03.25-09.09.07:902][790]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.09.12:555][158]Cmd: DUPLICATE
+[2024.03.25-09.09.12:555][158]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.09.16:451][465]Cmd: DUPLICATE
+[2024.03.25-09.09.16:451][465]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.09.33:816][838]Cmd: DUPLICATE
+[2024.03.25-09.09.33:816][838]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.09.42:886][555]Cmd: DUPLICATE
+[2024.03.25-09.09.42:887][555]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.09.49:741][ 98]Cmd: DUPLICATE
+[2024.03.25-09.09.49:741][ 98]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.09.58:619][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.09.58:777][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.25-09.09.58:821][800]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.09.58:823][800]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_Village8492B64E4B6A4AE33F0E768747ACBD58.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.09.58:832][800]LogFileHelpers: Saving map 'Eastern_Village' took 0.099
+[2024.03.25-09.09.58:846][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 3.76 sec)
+[2024.03.25-09.09.58:847][800]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.09.58:847][800]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 0 (Found bundle for host: 0x40d45150480 [serially])
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 6 (Closing connection)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 9 (  Trying 18.233.107.181:443...)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (18.233.107.181) port 443)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-09.09.59:927][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 34 (Closing connection)
+[2024.03.25-09.09.59:929][891]LogHttp: Warning: 0000040D9E39FA00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.09.59:929][891]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-09.10.25:016][ 37]Cmd: DUPLICATE
+[2024.03.25-09.10.25:016][ 37]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.10.32:646][612]Cmd: DUPLICATE
+[2024.03.25-09.10.32:646][612]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.10.35:332][825]Cmd: DUPLICATE
+[2024.03.25-09.10.35:332][825]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.10.38:734][ 84]Cmd: DUPLICATE
+[2024.03.25-09.10.38:734][ 84]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.10.41:415][295]Cmd: DUPLICATE
+[2024.03.25-09.10.41:415][295]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.10.48:742][854]Cmd: DUPLICATE
+[2024.03.25-09.10.48:742][854]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.10.54:827][335]Cmd: DUPLICATE
+[2024.03.25-09.10.54:827][335]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.11.00:064][750]Cmd: DUPLICATE
+[2024.03.25-09.11.00:064][750]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.11.04:246][ 80]Cmd: DUPLICATE
+[2024.03.25-09.11.04:247][ 80]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.11.08:074][384]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.11.20:965][414]Cmd: DUPLICATE
+[2024.03.25-09.11.20:965][414]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.11.30:137][109]Cmd: DUPLICATE
+[2024.03.25-09.11.30:137][109]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.11.39:006][821]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.11.42:942][133]Cmd: DUPLICATE
+[2024.03.25-09.11.42:942][133]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.11.47:011][448]Cmd: DUPLICATE
+[2024.03.25-09.11.47:011][448]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.11.52:467][874]Cmd: DUPLICATE
+[2024.03.25-09.11.52:467][874]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.11.59:727][447]Cmd: DUPLICATE
+[2024.03.25-09.11.59:727][447]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.12.03:705][758]Cmd: DUPLICATE
+[2024.03.25-09.12.03:705][758]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.12.10:605][305]Cmd: DUPLICATE
+[2024.03.25-09.12.10:605][305]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.12.18:025][883]Cmd: DUPLICATE
+[2024.03.25-09.12.18:025][883]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.12.24:086][360]Cmd: DUPLICATE
+[2024.03.25-09.12.24:086][360]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.12.28:765][704]Cmd: TRANSACTION UNDO
+[2024.03.25-09.12.28:765][704]LogEditorTransaction: Undo Move Elements
+[2024.03.25-09.12.34:626][ 89]Cmd: DUPLICATE
+[2024.03.25-09.12.34:626][ 89]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.12.46:051][993]Cmd: DUPLICATE
+[2024.03.25-09.12.46:051][993]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.12.52:642][508]Cmd: DUPLICATE
+[2024.03.25-09.12.52:642][508]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.12.57:735][915]Cmd: DUPLICATE
+[2024.03.25-09.12.57:735][915]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 0 (Found bundle for host: 0x40d45150f90 [serially])
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 6 (Closing connection)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 9 (  Trying 3.217.3.240:443...)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.217.3.240) port 443)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-09.12.59:943][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 34 (Closing connection)
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: 0000040DA0FA8200: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.12.59:944][ 85]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-09.13.03:736][387]Cmd: DUPLICATE
+[2024.03.25-09.13.03:736][387]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.13.11:182][952]Cmd: DUPLICATE
+[2024.03.25-09.13.11:183][952]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.13.15:288][268]Cmd: DUPLICATE
+[2024.03.25-09.13.15:288][268]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.13.52:033][266]Cmd: DUPLICATE
+[2024.03.25-09.13.52:033][266]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.14.51:515][910]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.283 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4201 files in 5766 folders with total size 131 MiB.
+[2024.03.25-09.15.10:927][556]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.15.25:800][688]LogHttp: Warning: 0000040DB6861400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 0 (Found bundle for host: 0x40d45150390 [serially])
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 7 (Closing connection)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 12 (  Trying 54.81.45.253:443...)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (54.81.45.253) port 443)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 15 (SSL reusing session ID)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 19 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 20 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 22 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 23 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 24 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 25 (old SSL session ID is stale, removing)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 26 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 27 (ALPN: server accepted http/1.1)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 28 (Server certificate:)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 29 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 30 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 31 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 32 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 33 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 34 ( SSL certificate verify ok.)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 35 (using HTTP/1.1)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 36 (necessary data rewind wasn't possible)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 37 (Closing connection)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: 0000040DB6861400: libcurl info message cache 38 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.15.25:801][688]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-09.15.31:022][ 92]Cmd: DUPLICATE
+[2024.03.25-09.15.31:022][ 92]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.15.39:052][794]Cmd: TRANSACTION UNDO
+[2024.03.25-09.15.39:052][794]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.25-09.15.51:024][715]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.16.39:955][ 21]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.16.55:087][911]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.17.08:342][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.17.08:490][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.03.25-09.17.08:571][680]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.17.08:572][680]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_VillageD0BE8E0A4BAC6363BEEDD59129608712.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.17.08:583][680]LogFileHelpers: Saving map 'Eastern_Village' took 0.132
+[2024.03.25-09.17.08:597][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 4.02 sec)
+[2024.03.25-09.17.08:603][680]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.17.08:603][680]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 0 (Found bundle for host: 0x40d451502d0 [serially])
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 6 (Closing connection)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 9 (  Trying 3.89.166.188:443...)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.89.166.188) port 443)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 34 (Closing connection)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: 0000040DB8063700: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.17.59:940][758]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-09.19.24:136][716]Cmd: DUPLICATE
+[2024.03.25-09.19.24:136][716]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.19.28:315][938]Cmd: TRANSACTION UNDO
+[2024.03.25-09.19.28:315][938]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.25-09.19.46:567][949]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.20.12:124][424]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.20.27:211][284]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.20.33:443][637]Cmd: DUPLICATE
+[2024.03.25-09.20.33:443][637]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.20.52:509][758]Cmd: DUPLICATE
+[2024.03.25-09.20.52:510][758]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 0 (Found bundle for host: 0x40d451504b0 [serially])
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 6 (Closing connection)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 9 (  Trying 54.84.178.8:443...)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.84.178.8) port 443)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 34 (Closing connection)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: 0000040DB4AE7D00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-09.20.59:960][159]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE072907-4AA4-595C-FAAE-CB8ADFF25F7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-09.21.03:155][339]Cmd: DELETE
+[2024.03.25-09.21.03:155][339]Cmd: ACTOR DELETE
+[2024.03.25-09.21.03:165][339]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.25-09.21.03:185][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.03.25-09.21.03:187][339]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.03.25-09.21.10:063][728]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.21.34:585][140]Cmd: DUPLICATE
+[2024.03.25-09.21.34:585][140]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.21.46:969][837]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.21.53:380][190]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.22.01:144][615]Cmd: DUPLICATE
+[2024.03.25-09.22.01:144][615]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.22.13:525][337]Cmd: TRANSACTION UNDO
+[2024.03.25-09.22.13:525][337]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.25-09.22.20:323][710]Cmd: DUPLICATE
+[2024.03.25-09.22.20:323][710]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.22.31:652][345]Cmd: DUPLICATE
+[2024.03.25-09.22.31:652][345]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.22.34:711][516]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.22.51:454][483]Cmd: TRANSACTION UNDO
+[2024.03.25-09.22.51:454][483]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.25-09.22.53:140][564]Cmd: DUPLICATE
+[2024.03.25-09.22.53:140][564]Cmd: ACTOR DUPLICATE
+[2024.03.25-09.22.56:390][735]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.25-09.23.14:100][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.23.14:251][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.03.25-09.23.14:374][722]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.23.14:375][722]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_VillageE30DD25845027317134DC88E4E729862.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.23.14:384][722]LogFileHelpers: Saving map 'Eastern_Village' took 0.177
+[2024.03.25-09.23.14:398][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 298 ms (total: 4.32 sec)
+[2024.03.25-09.23.14:404][722]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.23.14:405][722]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-09.23.17:567][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.23.17:702][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.03.25-09.23.17:823][908]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.23.17:825][908]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_Village2C1BCC4F4856A2AD6E5BB197A6122CCE.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.23.17:835][908]LogFileHelpers: Saving map 'Eastern_Village' took 0.170
+[2024.03.25-09.23.17:847][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 4.60 sec)
+[2024.03.25-09.23.17:855][908]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.23.17:855][908]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
+[2024.03.25-09.23.24:156][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-09.23.24:293][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.25-09.23.24:416][281]LogSavePackage: Moving output files for package: /Game/Eastern_Village
+[2024.03.25-09.23.24:417][281]LogSavePackage: Moving '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Saved/Eastern_VillageF2F496784284C6A82529CBA6540F171C.tmp' to '../../../../Y3T2/UJMM2034 Level Design/golden-island-game/Golden_Island_draft/Content/Eastern_Village.umap'
+[2024.03.25-09.23.24:425][281]LogFileHelpers: Saving map 'Eastern_Village' took 0.170
+[2024.03.25-09.23.24:438][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 4.88 sec)
+[2024.03.25-09.23.24:446][281]AssetCheck: New page: Asset Save: Eastern_Village
+[2024.03.25-09.23.24:446][281]LogContentValidation: Display: Validating /Script/Engine.World /Game/Eastern_Village.Eastern_Village
